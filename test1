@@ -13,7 +13,7 @@ def fetch_forex_rate(date, currency_code):
         "USD": "美元",
         "EUR": "欧元",
         "JPY": "日元",
-        "SGD": "新加坡"
+        "SGD": "新加坡元"
         # 添加其他需要支持的货币及其中文名称
     }
 
